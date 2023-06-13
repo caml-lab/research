@@ -1,0 +1,8 @@
+{
+    "target_title": "What to Hide from Your Students: Attention-Guided Masked Image Modeling",
+    "target_table": "<table><thead><tr><td rowspan=\"2\">iBOT Masking</td><td rowspan=\"2\">Ratio (%)</td><td colspan=\"2\">ImageNet-1k</td><td>CIFAR10</td><td>CIFAR100</td></tr><tr><td>k-NN</td><td>Linear</td><td colspan=\"2\">Fine-tuning</td></tr></thead><tbody><tr><td>Random Block-Wise{}^{\\dagger}</td><td>10-50</td><td>46.7</td><td>56.4</td><td>98.0</td><td>86.0</td></tr><tr><td>Random{}^{\\ddagger}</td><td>75</td><td>47.3</td><td>55.5</td><td>97.7</td><td>85.5</td></tr><tr><td>Random</td><td>10-50</td><td>47.8</td><td>56.7</td><td>98.0</td><td>86.1</td></tr><tr><td>AttMask-Low (ours)</td><td>10-50</td><td>44.0</td><td>53.4</td><td>97.6</td><td>84.6</td></tr><tr><td>AttMask-Hint (ours)</td><td>10-50</td><td>49.5</td><td>57.5</td><td>98.1</td><td>86.6</td></tr><tr><td>AttMask-High (ours)</td><td>10-50</td><td>49.7</td><td>57.9</td><td>98.2</td><td>86.6</td></tr></tbody></table>",
+    "target_caption": "Table 1: Different masking strategies for iBOT [78] pre-training on 20% of ImageNet.Top-1 accuracy for k-NN, linear probing on ImageNet validation set; fine-tuning on CIFAR10/100. \\dagger: default iBOT masking strategy from BEiT [2]. \\ddagger: aggressive random masking strategy from MAE [24].",
+    "source_title": "Masked autoencoders are scalable vision learners",
+    "source_table": "",
+    "source_caption": ""
+}

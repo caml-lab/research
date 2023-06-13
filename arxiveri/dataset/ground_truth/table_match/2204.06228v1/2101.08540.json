@@ -1,0 +1,8 @@
+{
+    "target_title": "Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization",
+    "target_table": "<table><tbody><tr><td>Model</td><td>AP@0.5</td><td>AP@0.75</td><td>AP@0.95</td><td>AR@100</td><td>AR@50</td><td>AR@20</td><td>AR@10</td></tr><tr><td>MDS (Chugh et al., 2020)</td><td>23.43</td><td>03.48</td><td>00.00</td><td>58.53</td><td>56.68</td><td>53.16</td><td>49.67</td></tr><tr><td>AGT (Nawhal and Mori, 2021)</td><td>15.69</td><td>10.69</td><td>00.15</td><td>49.11</td><td>40.31</td><td>31.70</td><td>23.13</td></tr><tr><td>BMN (Lin et al., 2019)</td><td>32.32</td><td>11.38</td><td>00.14</td><td>59.69</td><td>48.17</td><td>39.01</td><td>34.17</td></tr><tr><td>BMN (I3D)</td><td>28.10</td><td>05.47</td><td>00.01</td><td>55.49</td><td>54.44</td><td>52.14</td><td>47.72</td></tr><tr><td>AVFusion (Bagchi et al., 2021)</td><td>62.01</td><td>22.77</td><td>00.11</td><td>61.98</td><td>58.08</td><td>53.31</td><td>50.52</td></tr><tr><td>BA-TFD (visual-only)</td><td>83.55</td><td>41.88</td><td>00.24</td><td>65.79</td><td>62.30</td><td>57.95</td><td>55.34</td></tr><tr><td>BA-TFD</td><td>85.20</td><td>47.06</td><td>00.29</td><td>67.34</td><td>64.52</td><td>61.19</td><td>59.32</td></tr></tbody></table>",
+    "target_caption": "Table 3. Temporal forgery localization results on the subset (please see Section 5) of LAV-DF. The BA-TFD (visual-only) is the output from video boundary matching layer in Figure 4, showing the performance when using only the video modality.",
+    "source_title": "Activity Graph Transformer for Temporal Action Localization",
+    "source_table": "",
+    "source_caption": ""
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "rowIndex": 4,
+        "colIndex": 4,
+        "value": "63.40"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 1,
+        "value": "63.4 (-12.5)"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 5,
+        "value": "69.10"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 2,
+        "value": "69.1 (-6.8)"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "64.81"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 1,
+        "value": "64.8 (-7.7)"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 5,
+        "value": "66.48"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 2,
+        "value": "66.5 (-6.0)"
+    }
+]

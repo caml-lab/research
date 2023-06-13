@@ -1,0 +1,8 @@
+{
+    "target_title": "TinyViT: Fast Pretraining Distillation for Small Vision Transformers",
+    "target_table": "<table><tr><td rowspan=\"2\"> #</td><td rowspan=\"2\">Model</td><td>Pretraining</td><td>IN-1k</td><td>IN-Real [5]</td><td>IN-V2 [54]</td></tr><tr><td>Dataset</td><td>Top-1(%)</td><td>Top-1(%)</td><td>Top-1(%)</td></tr><tr><td> 0</td><td rowspan=\"4\">Swin-T [43]</td><td>Train from scratch on IN-1k</td><td>81.2</td><td>86.7</td><td>69.7</td></tr><tr><td>1</td><td>Original IN-21k</td><td>81.9(+0.7)</td><td>87.0(+0.3)</td><td>70.6(+0.9)</td></tr><tr><td>2</td><td>Cleaned IN-21k</td><td>82.2(+1.0)</td><td>87.3(+0.6)</td><td>71.1(+1.4)</td></tr><tr><td>3</td><td>Original IN-21k w/ distillation</td><td>83.4(+2.2)</td><td>88.0(+1.3)</td><td>72.6(+2.9)</td></tr><tr><td>4</td><td rowspan=\"4\">TinyViT-21M (ours)</td><td>Train from scratch on IN-1k</td><td>83.1</td><td>88.1</td><td>73.1</td></tr><tr><td>5</td><td>Original IN-21k</td><td>83.8(+0.7)</td><td>88.4(+0.3)</td><td>73.8(+0.7)</td></tr><tr><td>6</td><td>Cleaned IN-21k</td><td>84.2(+1.1)</td><td>88.5(+0.4)</td><td>73.8(+0.7)</td></tr><tr><td>7</td><td>Original IN-21k w/ distillation</td><td>84.8(+1.7)</td><td>88.9(+0.8)</td><td>75.1(+2.0)</td></tr><tr><td> </td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+    "target_caption": "Table 1: Impact of hard samples. Models are pretrained on IN-21k and then finetuned on IN-1k.",
+    "source_title": "Swin transformer: Hierarchical vision transformer using shifted windows",
+    "source_table": "",
+    "source_caption": ""
+}

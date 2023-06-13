@@ -1,0 +1,8 @@
+{
+    "target_title": "DeciWatch: A Simple Baseline for 10x Efficient 2D and 3D Pose Estimation",
+    "target_table": "<table><thead><tr><td></td><td colspan=\"5\">Human3.6M</td><td colspan=\"5\">AIST++</td></tr><tr><td>Interval N</td><td>2</td><td>5</td><td>10</td><td>15</td><td>20</td><td>2</td><td>5</td><td>10</td><td>15</td><td>20</td></tr></thead><tbody><tr><td>Linear</td><td>2.21</td><td>6.55</td><td>10.81</td><td>24.15</td><td>35.20</td><td>7.21</td><td>21.31</td><td>27.72</td><td>73.69</td><td>99.04</td></tr><tr><td>Quadratic</td><td>1.26</td><td>4.31</td><td>10.05</td><td>17.22</td><td>22.85</td><td>2.04</td><td>8.33</td><td>23.59</td><td>43.13</td><td>61.16</td></tr><tr><td>Cubic-Spline</td><td>0.18</td><td>0.99</td><td>5.36</td><td>18.42</td><td>29.21</td><td>0.89</td><td>5.12</td><td>18.31</td><td>45.32</td><td>77.39</td></tr><tr><td>DeciWatch</td><td>0.25</td><td>1.33</td><td>2.89</td><td>6.21</td><td>10.59</td><td>0.83</td><td>4.03</td><td>11.25</td><td>20.12</td><td>41.25</td></tr></tbody></table>",
+    "target_caption": "Table 1: Comparison of MPJPE on efficient pose labeling that labels one frame in every N frames on Human3.6M [22] and AIST++ [34] dataset.",
+    "source_title": "Ai choreographer: Music conditioned 3d dance generation with aist++",
+    "source_table": "",
+    "source_caption": ""
+}

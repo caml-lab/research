@@ -1,0 +1,8 @@
+{
+    "target_title": "MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound",
+    "target_table": "<table><thead><tr><td></td><td colspan=\"3\">Accuracy (%)</td></tr></thead><tbody><tr><td>Model</td><td>Voice</td><td>Image+Voice</td><td>Image</td></tr><tr><td><img/>Reserve-L</td><td>10.8</td><td>9.6</td><td>10.7</td></tr><tr><td>CLIP ViT-B/16 [92]</td><td></td><td></td><td>86.0</td></tr></tbody></table>",
+    "target_caption": "Table 2: Zero-shot person (face/voice) recognition accuracy on VoxCeleb2 [87] and VGGFace2 [17], using different modalities. While <img/>Reserve can perform person recognition from several modalities, its performance is much lower than the recognition-optimized CLIP model in the image-to-name setting. We hypothesize that this is due to a similarity between this setting and CLIP\u2019s pretraining data \u2013 news articles often include celebrity images, paired with their names. ",
+    "source_title": "Vggface2: A dataset for recognising faces across pose and age",
+    "source_table": "",
+    "source_caption": ""
+}

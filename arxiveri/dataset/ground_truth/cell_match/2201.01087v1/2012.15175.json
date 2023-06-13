@@ -1,0 +1,232 @@
+[
+    {
+        "rowIndex": 7,
+        "colIndex": 2,
+        "value": "68.4"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 5,
+        "value": "68.4"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 3,
+        "value": "88.2"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 6,
+        "value": "88.2"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 4,
+        "value": "75.1"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 7,
+        "value": "75.1"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 5,
+        "value": "64.4"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 8,
+        "value": "64.4"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 6,
+        "value": "74.2"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 9,
+        "value": "74.2"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 2,
+        "value": "70.2"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 5,
+        "value": "\\mathbf{70.2}"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 3,
+        "value": "89.9"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 6,
+        "value": "\\mathbf{89.9}"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 4,
+        "value": "76.9"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 7,
+        "value": "\\mathbf{76.9}"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 5,
+        "value": "65.2"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 8,
+        "value": "\\mathbf{65.2}"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 6,
+        "value": "77.0"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 9,
+        "value": "\\mathbf{77.0}"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "61.8"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 5,
+        "value": "61.8"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "84.9"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 6,
+        "value": "84.9"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "67.5"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 7,
+        "value": "67.5"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 5,
+        "value": "57.1"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 8,
+        "value": "57.1"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 6,
+        "value": "68.2"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 9,
+        "value": "68.2"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "65.5"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 5,
+        "value": "65.5"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "86.8"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 6,
+        "value": "86.8"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 4,
+        "value": "72.3"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 7,
+        "value": "72.3"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 5,
+        "value": "60.6"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 8,
+        "value": "60.6"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 6,
+        "value": "72.6"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 9,
+        "value": "72.6"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 2,
+        "value": "66.7"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 5,
+        "value": "66.7"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 5,
+        "value": "62.4"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 8,
+        "value": "62.4"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 6,
+        "value": "72.9"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 9,
+        "value": "72.9"
+    }
+]

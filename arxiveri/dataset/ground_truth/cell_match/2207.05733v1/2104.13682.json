@@ -1,0 +1,132 @@
+[
+    {
+        "rowIndex": 1,
+        "colIndex": 2,
+        "value": "31.8"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 2,
+        "value": "31.8"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "40.0"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 2,
+        "value": "40.0"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "48.0"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 3,
+        "value": "48.0"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "45.3"
+    },
+    {
+        "rowIndex": 16,
+        "colIndex": 2,
+        "value": "45.3"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "52.4"
+    },
+    {
+        "rowIndex": 16,
+        "colIndex": 3,
+        "value": "52.4"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 2,
+        "value": "51.8"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 2,
+        "value": "51.8"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 3,
+        "value": "57.0"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 3,
+        "value": "57.0"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 2,
+        "value": "51.0"
+    },
+    {
+        "rowIndex": 21,
+        "colIndex": 2,
+        "value": "51.0"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 2,
+        "value": "55.2"
+    },
+    {
+        "rowIndex": 26,
+        "colIndex": 2,
+        "value": "55.2"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 3,
+        "value": "64.4"
+    },
+    {
+        "rowIndex": 26,
+        "colIndex": 3,
+        "value": "64.4"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 2,
+        "value": "47.5"
+    },
+    {
+        "rowIndex": 25,
+        "colIndex": 2,
+        "value": "47.5"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 3,
+        "value": "56.2"
+    },
+    {
+        "rowIndex": 25,
+        "colIndex": 3,
+        "value": "56.2"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 2,
+        "value": "51.0"
+    },
+    {
+        "rowIndex": 24,
+        "colIndex": 2,
+        "value": "51.0"
+    }
+]

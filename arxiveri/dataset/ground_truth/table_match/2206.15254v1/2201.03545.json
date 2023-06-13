@@ -1,0 +1,8 @@
+{
+    "target_title": "Localizing the Recurrent Laryngeal Nerve via Ultrasound with a Bayesian Shape Framework",
+    "target_table": "<table><tbody><tr><td></td><td rowspan=\"2\">Methods</td><td colspan=\"2\">Left RLN</td><td colspan=\"2\">Right RLN</td></tr><tr><td></td><td>Distance (pix)</td><td>Hit Rate (\\%)</td><td>Distance (pix)</td><td>Hit Rate (\\%)</td></tr><tr><td rowspan=\"3\">Coord-based</td><td>ResNet-50 [4]</td><td>10.9 \\pm 9.7</td><td>77.5</td><td>12.3 \\pm 8.4</td><td>70.0</td></tr><tr><td>SwinT-C [8]</td><td>19.7 \\pm 11.8</td><td>42.3</td><td>14.4\\pm 9.6</td><td>59.4</td></tr><tr><td>ConvNeXt-C [9]</td><td>16.5 \\pm 8.2</td><td>47.3</td><td>14.0 \\pm 9.5</td><td>62.5</td></tr><tr><td rowspan=\"4\">Heatmap-based</td><td>U-Net [12]</td><td>29.3 \\pm 12.8</td><td>11.5</td><td>20.9 \\pm 10.5</td><td>31.9</td></tr><tr><td>DeepLab [2]</td><td>17.5 \\pm 8.0</td><td>41.2</td><td>11.9 \\pm 7.1</td><td>71.3</td></tr><tr><td>SwinT-H [8]</td><td>22.7 \\pm 13.6</td><td>30.8</td><td>20.2 \\pm 10.6</td><td>35.6</td></tr><tr><td>ConvNeXt-H [9]</td><td>12.7 \\pm 12.1</td><td>73.1</td><td>13.1 \\pm 8.7</td><td>64.4</td></tr><tr><td></td><td>Proposed</td><td>3.49\\pm7.53</td><td>95.6</td><td>4.55 \\pm7.61</td><td>92.5</td></tr></tbody></table>",
+    "target_caption": "Table 1: Statistics of competing methods for the testing dataset.",
+    "source_title": "A convnet for the 2020s",
+    "source_table": "",
+    "source_caption": ""
+}

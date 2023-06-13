@@ -1,0 +1,8 @@
+{
+    "target_title": "Online Easy Example Mining for Weakly-supervised Gland Segmentation from Histology Images",
+    "target_table": "<table><tbody><tr><td>Method</td><td>Backbone</td><td>Supervision</td><td>mIoU (%)</td><td>Dice (%)</td><td>F1 (%)</td></tr><tr><td>Unet [9]</td><td>Unet</td><td>fully</td><td>65.34</td><td>79.04</td><td>77.78</td></tr><tr><td>Res-UNet [19]</td><td>Res-UNet</td><td>fully</td><td>65.95</td><td>79.48</td><td>78.83</td></tr><tr><td>MedT [13]</td><td>Vision Transformer</td><td>fully</td><td>69.61</td><td>82.08</td><td>81.02</td></tr><tr><td>KiU-Net [14]</td><td>KiU-Net</td><td>fully</td><td>71.31</td><td>83.25</td><td>-</td></tr><tr><td>UCTransNet [15]</td><td>UCTransNet</td><td>fully</td><td>82.24</td><td>90.25</td><td>-</td></tr><tr><td>ours w/o OEEM</td><td>PSPNet &amp; ResNet38</td><td>fully</td><td>86.84</td><td>92.96</td><td>93.24</td></tr><tr><td>SEAM [16]</td><td>PSPNet &amp; ResNet38</td><td>weakly</td><td>66.11</td><td>79.59</td><td>79.50</td></tr><tr><td>Adv-CAM [6]</td><td>PSPNet &amp; ResNet38</td><td>weakly</td><td>68.54</td><td>81.33</td><td>81.36</td></tr><tr><td>SC-CAM [2]</td><td>PSPNet &amp; ResNet38</td><td>weakly</td><td>71.52</td><td>83.40</td><td>83.32</td></tr><tr><td>ours w/o OEEM</td><td>PSPNet &amp; ResNet38</td><td>weakly</td><td>75.64</td><td>86.13</td><td>82.36</td></tr><tr><td>OEEM</td><td>PSPNet &amp; ResNet38</td><td>weakly</td><td>77.56</td><td>87.36</td><td>87.35</td></tr></tbody></table>",
+    "target_caption": "Table 1:  Results of gland segmentation on the GlaS dataset. \u201c-\u201d refers to not reported.",
+    "source_title": "Weakly-supervised semantic segmentation via sub-category exploration",
+    "source_table": "",
+    "source_caption": ""
+}

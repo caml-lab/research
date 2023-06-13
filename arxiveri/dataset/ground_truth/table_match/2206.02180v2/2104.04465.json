@@ -1,0 +1,8 @@
+{
+    "target_title": "Semi-Supervised Learning for Mars Imagery Classification and Segmentation",
+    "target_table": "<table><tbody><tr><td>Method</td><td>ACC (%)</td><td>mIoU (%)</td></tr><tr><td>Mean Teacher (Tarvainen andValpola, 2017)</td><td>72.24</td><td>55.34</td></tr><tr><td>ClassMix (Olssonet al., 2021)</td><td>70.67</td><td>53.84</td></tr><tr><td>CutOut (Devries andTaylor, 2017)</td><td>75.31</td><td>58.01</td></tr><tr><td>CutMix (Yunet al., 2019)</td><td>74.81</td><td>57.70</td></tr><tr><td>ReCo (Liuet al., 2021)</td><td>72.67</td><td>55.34</td></tr><tr><td>ReCo (Liuet al., 2021) + ClassMix (Olssonet al., 2021)</td><td>68.01</td><td>51.25</td></tr><tr><td>ReCo (Liuet al., 2021) + CutOut (Devries andTaylor, 2017)</td><td>75.61</td><td>58.19</td></tr><tr><td>ReCo (Liuet al., 2021) + CutMix (Yunet al., 2019)</td><td>73.63</td><td>56.76</td></tr><tr><td>ReCo{}^{\\dagger} (Liuet al., 2021)</td><td>83.29</td><td>69.15</td></tr><tr><td>ReCo{}^{\\dagger} (Liuet al., 2021) + ClassMix (Olssonet al., 2021)</td><td>83.14</td><td>68.77</td></tr><tr><td>ReCo{}^{\\dagger} (Liuet al., 2021) + CutOut (Devries andTaylor, 2017)</td><td>83.23</td><td>68.73</td></tr><tr><td>ReCo{}^{\\dagger} (Liuet al., 2021) + CutMix (Yunet al., 2019)</td><td>83.11</td><td>68.78</td></tr><tr><td>Ours</td><td>88.82</td><td>70.34</td></tr></tbody></table>",
+    "target_caption": "Table 4. Segmentation performance on the AI4Mars Dataset. {}^{\\dagger} indicates ImageNet pretraining.",
+    "source_title": "Bootstrapping Semantic Segmentation with Regional Contrast",
+    "source_table": "",
+    "source_caption": ""
+}

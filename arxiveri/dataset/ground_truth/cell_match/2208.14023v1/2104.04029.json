@@ -1,0 +1,152 @@
+[
+    {
+        "rowIndex": 3,
+        "colIndex": 1,
+        "value": "45.4"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 1,
+        "value": "45.44"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "73.7"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 2,
+        "value": "73.73"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "129.2"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 3,
+        "value": "129.23"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 4,
+        "value": "159.5"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 4,
+        "value": "159.47"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 5,
+        "value": "208.3"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 5,
+        "value": "208.31"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 1,
+        "value": "31.0"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 1,
+        "value": "31.04"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 2,
+        "value": "50.8"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 2,
+        "value": "50.8"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 3,
+        "value": "84.7"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 3,
+        "value": "84.74"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 4,
+        "value": "104.1"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 4,
+        "value": "104.05"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 5,
+        "value": "150.4"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 5,
+        "value": "150.41"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 1,
+        "value": "62.4"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 1,
+        "value": "62.41"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "94.6"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 2,
+        "value": "94.59"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "153.2"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 3,
+        "value": "153.24"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "188.0"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 4,
+        "value": "188.02"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 5,
+        "value": "249.9"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 5,
+        "value": "249.91"
+    }
+]

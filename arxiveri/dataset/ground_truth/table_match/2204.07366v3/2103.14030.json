@@ -1,0 +1,8 @@
+{
+    "target_title": "ResT V2: Simpler, Faster and Stronger",
+    "target_table": "<table><thead><tr><td>Backbones</td><td>{\\rm AP^{box}}</td><td>{\\rm AP^{mask}}</td><td>Params.</td><td>FLOPs</td><td>FPS</td></tr></thead><tbody><tr><td>ResNet-50 DBLP:conf/cvpr/HeZRS16 </td><td>41.0</td><td>37.1</td><td>44.2M</td><td>260G</td><td>24.1</td></tr><tr><td>ConvNeXt-T liu2022convnet </td><td>46.2</td><td>41.7</td><td>48.1M</td><td>262G</td><td>23.4</td></tr><tr><td>Swin-T DBLP:conf/iccv/LiuL00W0LG21 </td><td>46.0</td><td>41.6</td><td>47.8M</td><td>264G</td><td>21.8</td></tr><tr><td>ResTv2-T</td><td>47.6</td><td>43.2</td><td>49.9M</td><td>253G</td><td>25.0</td></tr><tr><td>ResNet-101 DBLP:conf/cvpr/HeZRS16 </td><td>42.8</td><td>38.5</td><td>63.2M</td><td>336G</td><td>13.5</td></tr><tr><td>Swin-S DBLP:conf/iccv/LiuL00W0LG21 </td><td>48.5</td><td>43.3</td><td>69.1M</td><td>354G</td><td>17.4</td></tr><tr><td>ResTv2-S</td><td>48.1</td><td>43.3</td><td>60.7M</td><td>290G</td><td>21.3</td></tr><tr><td>ResTv2-B</td><td>48.7</td><td>43.9</td><td>75.5M</td><td>328G</td><td>18.3</td></tr></tbody></table>",
+    "target_caption": "Table 4: COCO object detection and segmentation results usingMask-RCNN. We measure FPS on one V100 GPU. FLOPs are calculated with image size (1280, 800).",
+    "source_title": "Swin transformer: Hierarchical vision transformer using shifted windows",
+    "source_table": "",
+    "source_caption": ""
+}

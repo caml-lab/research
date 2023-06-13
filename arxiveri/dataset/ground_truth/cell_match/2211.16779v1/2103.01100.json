@@ -1,0 +1,122 @@
+[
+    {
+        "rowIndex": 3,
+        "colIndex": 5,
+        "value": "12.55"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 4,
+        "value": "12.55"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 4,
+        "value": "16.02"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 3,
+        "value": "16.02"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "22.51"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 2,
+        "value": "22.51"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 5,
+        "value": "14.97"
+    },
+    {
+        "rowIndex": 14,
+        "colIndex": 4,
+        "value": "14.97"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "16.86"
+    },
+    {
+        "rowIndex": 14,
+        "colIndex": 3,
+        "value": "16.86"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "22.97"
+    },
+    {
+        "rowIndex": 14,
+        "colIndex": 2,
+        "value": "22.97"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 5,
+        "value": "13.10"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "13.10"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 4,
+        "value": "17.52"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "17.52"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 3,
+        "value": "26.69"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "26.69"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 5,
+        "value": "17.19"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 4,
+        "value": "17.19"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 4,
+        "value": "18.91"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 3,
+        "value": "18.91"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 3,
+        "value": "27.94"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 2,
+        "value": "27.94"
+    }
+]

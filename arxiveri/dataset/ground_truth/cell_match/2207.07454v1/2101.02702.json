@@ -1,0 +1,82 @@
+[
+    {
+        "rowIndex": 2,
+        "colIndex": 1,
+        "value": "52.7"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 2,
+        "value": "52.7"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 1,
+        "value": "56.8"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 2,
+        "value": "56.8"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 1,
+        "value": "58.1"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 2,
+        "value": "58.1"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 1,
+        "value": "58.7"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 2,
+        "value": "58.7"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 1,
+        "value": "40.6"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 2,
+        "value": "40.6"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 1,
+        "value": "54.9"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 2,
+        "value": "54.9"
+    },
+    {
+        "rowIndex": 8,
+        "colIndex": 2,
+        "value": "42.4"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 3,
+        "value": "42.4"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 2,
+        "value": "63.6"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 3,
+        "value": "63.6"
+    }
+]

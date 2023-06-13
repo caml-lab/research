@@ -1,0 +1,8 @@
+{
+    "target_title": "Understanding Aesthetics with Language: A Photo Critique Dataset for Aesthetic Assessment",
+    "target_table": "<table><tr><td></td><td>Bleu1</td><td>Bleu2</td><td>Bleu3</td><td>Bleu4</td><td>METEOR</td><td>ROUGE</td><td>CIDEr</td><td>SPICE</td></tr><tr><td>PCCD</td><td>0.165</td><td>0.065</td><td>0.028</td><td>0.011</td><td>0.063</td><td>0.137</td><td>0.049</td><td>0.048</td></tr><tr><td>RPCD</td><td>0.211</td><td>0.088</td><td>0.038</td><td>0.017</td><td>0.077</td><td>0.157</td><td>0.048</td><td>0.040</td></tr></table>",
+    "target_caption": "Table 3: Aesthetic image captioning using BLIP Li et al. (2022) on PCCD and our RPCD.",
+    "source_title": "Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation",
+    "source_table": "",
+    "source_caption": ""
+}

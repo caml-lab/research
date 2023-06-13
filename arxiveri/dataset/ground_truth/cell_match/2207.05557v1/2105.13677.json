@@ -1,0 +1,112 @@
+[
+    {
+        "rowIndex": 13,
+        "colIndex": 3,
+        "value": "4.0"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 2,
+        "value": "4.0"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 2,
+        "value": "22"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 1,
+        "value": "22.1"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 3,
+        "value": "4.6"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 2,
+        "value": "4.6"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 5,
+        "value": "79.8"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 4,
+        "value": "79.8"
+    },
+    {
+        "rowIndex": 18,
+        "colIndex": 5,
+        "value": "81.3"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 4,
+        "value": "81.3"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 5,
+        "value": "79.6"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 4,
+        "value": "79.6 (\\uparrow 9.9)"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 2,
+        "value": "13.7"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 1,
+        "value": "13.66"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 3,
+        "value": "1.9"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 2,
+        "value": "1.9"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 2,
+        "value": "30.3"
+    },
+    {
+        "rowIndex": 20,
+        "colIndex": 1,
+        "value": "30.28"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 3,
+        "value": "4.3"
+    },
+    {
+        "rowIndex": 20,
+        "colIndex": 2,
+        "value": "4.3"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 5,
+        "value": "81.6"
+    },
+    {
+        "rowIndex": 20,
+        "colIndex": 4,
+        "value": "81.6 (\\uparrow 2.6)"
+    }
+]

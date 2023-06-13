@@ -1,0 +1,8 @@
+{
+    "target_title": "Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models",
+    "target_table": "<table><thead><tr><td rowspan=\"2\">Approach</td><td colspan=\"4\">Novel</td></tr><tr><td>Room</td><td>Visual</td><td>Vocab</td><td>Class</td></tr></thead><tbody><tr><td>SemAware</td><td>19.0</td><td>18.6</td><td>18.3</td><td>12.2</td></tr><tr><td>SemAbs+[18]</td><td>8.5</td><td>8.5</td><td>10.8</td><td>11.7</td></tr><tr><td>ClipSpatial</td><td>18.1</td><td>15.5</td><td>20.2</td><td>27.1</td></tr><tr><td>Ours</td><td>28.7</td><td>25.9</td><td>31.1</td><td>34.0</td></tr></tbody></table>",
+    "target_caption": "Table 2: Visually Obscured Object Localization",
+    "source_title": "Generic attention-model explainability for interpreting bi-modal and encoder-decoder transformers",
+    "source_table": "",
+    "source_caption": ""
+}

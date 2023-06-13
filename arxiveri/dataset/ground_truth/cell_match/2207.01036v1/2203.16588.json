@@ -1,0 +1,452 @@
+[
+    {
+        "rowIndex": 7,
+        "colIndex": 1,
+        "value": "76.40"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 1,
+        "value": "76.40"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 2,
+        "value": "71.14"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 2,
+        "value": "71.14"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 3,
+        "value": "66.46"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 3,
+        "value": "66.46"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 4,
+        "value": "63.29"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 4,
+        "value": "63.29"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 5,
+        "value": "60.42"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 5,
+        "value": "60.42"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 6,
+        "value": "57.46"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 6,
+        "value": "57.46"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 7,
+        "value": "54.78"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 7,
+        "value": "54.78"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 8,
+        "value": "53.11"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 8,
+        "value": "53.11"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 9,
+        "value": "51.41"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 9,
+        "value": "51.41"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 1,
+        "value": "72.00"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 1,
+        "value": "72.00"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 2,
+        "value": "66.83"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 2,
+        "value": "66.83"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 3,
+        "value": "62.97"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 3,
+        "value": "62.97"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 4,
+        "value": "59.43"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 4,
+        "value": "59.43"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 5,
+        "value": "56.70"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 5,
+        "value": "56.70"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 6,
+        "value": "53.73"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 6,
+        "value": "53.73"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 7,
+        "value": "51.19"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 7,
+        "value": "51.19"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 8,
+        "value": "49.24"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 8,
+        "value": "49.24"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 9,
+        "value": "47.63"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 9,
+        "value": "47.63"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 1,
+        "value": "67.28"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 1,
+        "value": "67.28"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 2,
+        "value": "63.80"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 2,
+        "value": "63.80"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 3,
+        "value": "60.38"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 3,
+        "value": "60.38"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 4,
+        "value": "57.06"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 4,
+        "value": "57.06"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 5,
+        "value": "54.08"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 5,
+        "value": "54.08"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 6,
+        "value": "51.39"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 6,
+        "value": "51.39"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 7,
+        "value": "48.82"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 7,
+        "value": "48.82"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 8,
+        "value": "46.58"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 8,
+        "value": "46.58"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 9,
+        "value": "44.65"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 9,
+        "value": "44.65"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 1,
+        "value": "61.31"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 1,
+        "value": "61.31"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "50.09"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "50.09"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "45.17"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "45.17"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 4,
+        "value": "41.16"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "41.16"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 5,
+        "value": "37.48"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 5,
+        "value": "37.48"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 6,
+        "value": "35.52"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 6,
+        "value": "35.52"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 7,
+        "value": "32.19"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 7,
+        "value": "32.19"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 8,
+        "value": "29.46"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 8,
+        "value": "29.46"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 9,
+        "value": "24.42"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 9,
+        "value": "24.42"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 1,
+        "value": "64.77"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 1,
+        "value": "64.77"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 2,
+        "value": "59.87"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "59.87"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 3,
+        "value": "55.93"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "55.93"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 4,
+        "value": "52.62"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 4,
+        "value": "52.62"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 5,
+        "value": "49.88"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 5,
+        "value": "49.88"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 6,
+        "value": "47.55"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 6,
+        "value": "47.55"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 7,
+        "value": "44.83"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 7,
+        "value": "44.83"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 8,
+        "value": "43.14"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 8,
+        "value": "43.14"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 9,
+        "value": "41.84"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 9,
+        "value": "41.84"
+    }
+]

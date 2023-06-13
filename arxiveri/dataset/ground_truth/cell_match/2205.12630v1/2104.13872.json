@@ -1,0 +1,32 @@
+[
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "7.6"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 5,
+        "value": "7.6 \\pm 0.4"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "13.5"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 6,
+        "value": "13.5 \\pm 0.3"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "31.8"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 8,
+        "value": "31.8 \\pm 0.7"
+    }
+]

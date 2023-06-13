@@ -1,0 +1,8 @@
+{
+    "target_title": "Progressive End-to-End Object Detection in Crowded Scenes",
+    "target_table": "<table><thead><tr><td><p>Method</p></td><td><p>Dataset</p></td><td><p>#Queries</p></td><td><p>AP</p></td><td><p>\\text{MR}^{-2}</p></td><td><p>JI</p></td></tr></thead><tbody><tr><td><p>S-RCNN</p></td><td></td><td><p>500</p></td><td><p>93.1</p></td><td><p>39.9</p></td><td><p>85.1</p></td></tr><tr><td><p>S-RCNN+Ours</p></td><td><p>CHuman</p></td><td><p>500</p></td><td><p>93.8</p></td><td>37.4</td><td><p>86.5</p></td></tr><tr><td><p>D-DETR</p></td><td></td><td><p>1000</p></td><td><p>93.4</p></td><td><p>39.6</p></td><td><p>86.3</p></td></tr><tr><td><p>D-DETR+Ours</p></td><td></td><td><p>1000</p></td><td>94.1</td><td><p>37.7</p></td><td>87.1</td></tr><tr><td><p>S-RCNN</p></td><td></td><td><p>500</p></td><td><p>98.3</p></td><td><p>5.9</p></td><td><p>93.7</p></td></tr><tr><td><p>D-DETR</p></td><td><p>CPersons</p></td><td><p>500</p></td><td><p>96.4</p></td><td><p>8.4</p></td><td><p>92.0</p></td></tr><tr><td><p>S-RCNN+Ours</p></td><td></td><td><p>500</p></td><td>98.4</td><td>4.9</td><td>94.2</td></tr><tr><td><p>D-DETR+Ours</p></td><td></td><td><p>500</p></td><td><p>97.5</p></td><td><p>5.9</p></td><td><p>93.7</p></td></tr></tbody></table>",
+    "target_caption": "Table 6: Experiment on CHuman(CrowdHuman) and CPersons(CityPersons) with Swin-L [29]. S-RCNN \u2013 Sparse RCNN [39], D-DETR \u2013 Deformable DETR [54]",
+    "source_title": "Swin transformer: Hierarchical vision transformer using shifted windows",
+    "source_table": "",
+    "source_caption": ""
+}

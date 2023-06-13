@@ -1,0 +1,8 @@
+{
+    "target_title": "Large-Scale Product Retrieval with Weakly Supervised Representation Learning",
+    "target_table": "<table><tr><td>Training config</td><td>ConvNeXt-XL[18] / Swin-L[16]</td></tr><tr><td>training resolution</td><td>224 / 384</td></tr><tr><td>inference resoultion</td><td>316 &amp; 384 / 384</td></tr><tr><td>optimizer</td><td>AdamW</td></tr><tr><td>base learning rate</td><td>1e-4</td></tr><tr><td>weight decay</td><td>1e-4</td></tr><tr><td>poly loss \\epsilon [14]</td><td>0.5</td></tr><tr><td>optimizer momentum</td><td>\\beta_{1},\\beta_{2}=0.9,0.999</td></tr><tr><td>batch size</td><td>28 \\times 8 / 14 \\times 8</td></tr><tr><td>training epochs</td><td>20</td></tr><tr><td>learning rate schedule</td><td>cosine decay</td></tr><tr><td>warmup epochs</td><td>5</td></tr><tr><td>warmup schedule</td><td>linear</td></tr><tr><td>TrivialAugment [20]</td><td>num_magnitude_bins = 31</td></tr><tr><td>random erasing [35]</td><td>0.25</td></tr><tr><td>stochastic depth [10]</td><td>0.4</td></tr><tr><td>head init scale [26]</td><td>0.01</td></tr><tr><td>exp. mov. avg. (EMA) [21]</td><td>0.9999</td></tr><tr><td>reranking [34]</td><td>K_{1},K_{2},\\alpha=8,5,0.5</td></tr></table>",
+    "target_caption": "Table 1: All hyper-parameters used in our solution. Multiple hyper-parameters (e.g., 224 / 384 training resolution) are for each model (e.g., ConvNeXt-XL / Swin-L) respectively.",
+    "source_title": "Swin transformer: Hierarchical vision transformer using shifted windows",
+    "source_table": "",
+    "source_caption": ""
+}

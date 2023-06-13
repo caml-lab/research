@@ -1,0 +1,8 @@
+{
+    "target_title": "HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection",
+    "target_table": "<table><tbody><tr><td>Method (Fusion Type)</td><td>AP</td><td>AP{}_{0.5}</td><td>AP{}_{0.75}</td><td>AP{}_{m}</td><td>AP{}_{l}</td><td>AR</td></tr><tr><td>HRFormer-T</td><td>26.5</td><td>49.9</td><td>25.3</td><td>18.2</td><td>37.0</td><td>26.8</td></tr><tr><td>HRFormer-T (Early)</td><td>27.7</td><td>51.6</td><td>26.5</td><td>18.4</td><td>38.8</td><td>38.9</td></tr><tr><td>HRFuser-T (Addition)</td><td>30.8</td><td>56.4</td><td>30.5</td><td>22.0</td><td>41.9</td><td>42.0</td></tr><tr><td>HRFuser-T (MWCA{}_{\\text{onlyHighRes}})</td><td>30.5</td><td>56.1</td><td>29.7</td><td>21.8</td><td>41.4</td><td>41.5</td></tr><tr><td>HRFuser-T (MWCA)</td><td>31.5</td><td>57.4</td><td>31.1</td><td>22.7</td><td>42.5</td><td>42.3</td></tr><tr><td>HRFuser-T (PVTv2-CA [79])</td><td>29.8</td><td>54.3</td><td>29.4</td><td>20.1</td><td>41.3</td><td>40.9</td></tr><tr><td>HRFuser-T (PVTv2-Li-CA [79])</td><td>29.5</td><td>54.2</td><td>28.6</td><td>19.9</td><td>41.0</td><td>40.6</td></tr></tbody></table>",
+    "target_caption": "Table 3: Ablations of fusion strategies on nuScenes. Early: early fusion by direct concatenation of all 3 input modalities, Addition: fusion at multiple levels and resolutions between secondary branches and camera branch via an addition block, MWCA: our MWCA fusion block, MWCA{}_{\\text{onlyHighRes}}: our fusion block included only in the highest resolution of the camera branch.",
+    "source_title": "Pvt v2: Improved baselines with pyramid vision transformer",
+    "source_table": "",
+    "source_caption": ""
+}

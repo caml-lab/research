@@ -1,0 +1,52 @@
+[
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "70.50"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 2,
+        "value": "\\mathbf{0.705}"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 4,
+        "value": "83.10"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 3,
+        "value": "\\mathbf{0.831}"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 5,
+        "value": "90.80"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 4,
+        "value": "\\mathbf{0.908}"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 6,
+        "value": "90.20"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 8,
+        "value": "\\mathbf{0.902\\pm 0.036}"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 7,
+        "value": "94.6"
+    },
+    {
+        "rowIndex": 7,
+        "colIndex": 9,
+        "value": "\\mathbf{0.946\\pm 0.022}"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "target_title": "Learning a Task-specific Descriptor for Robust Matching of 3D Point Clouds",
+    "target_table": "<table><tr><td rowspan=\"2\">Methods</td><td colspan=\"2\">TE(cm)</td><td colspan=\"2\">RE({}^{\\circ})</td><td rowspan=\"2\">Recall(%)</td></tr><tr><td>AVG</td><td>STD</td><td>AVG</td><td>STD</td></tr><tr><td>FGR [65]</td><td>42.8</td><td>19.7</td><td>1.89</td><td>1.11</td><td>2.74</td></tr><tr><td>3DFeat-Net [18]</td><td>21.4</td><td>17.2</td><td>0.44</td><td>0.36</td><td>45.72</td></tr><tr><td>FCGF [19]</td><td>10.5</td><td>1.37</td><td>0.30</td><td>0.29</td><td>97.34</td></tr><tr><td>D3Feat [4]</td><td>6.54</td><td>1.06</td><td>0.33</td><td>0.23</td><td>97.81</td></tr><tr><td>SpinNet [62]</td><td>9.13</td><td>1.42</td><td>0.73</td><td>0.41</td><td>97.50</td></tr><tr><td>EDFNet</td><td>5.12</td><td>1.01</td><td>0.31</td><td>0.20</td><td>98.14</td></tr><tr><td>DGR [63]</td><td>4.01</td><td>0.82</td><td>0.23</td><td>0.14</td><td>97.94</td></tr><tr><td>PointDSC [66]</td><td>3.84</td><td>0.83</td><td>0.22</td><td>0.12</td><td>98.70</td></tr><tr><td>EDFNet+DGR</td><td>3.82</td><td>0.77</td><td>0.17</td><td>0.14</td><td>98.92</td></tr></table>",
+    "target_caption": "TABLE II: Registration on the KITTI dataset. AVG indicates the average result and STD indicates the standard deviation.",
+    "source_title": "Deep global registration",
+    "source_table": "",
+    "source_caption": ""
+}

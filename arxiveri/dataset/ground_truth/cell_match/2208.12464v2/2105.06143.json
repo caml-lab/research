@@ -1,0 +1,42 @@
+[
+    {
+        "rowIndex": 3,
+        "colIndex": 10,
+        "value": "0.111"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 6,
+        "value": "0.111"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 11,
+        "value": "0.878"
+    },
+    {
+        "rowIndex": 6,
+        "colIndex": 8,
+        "value": "0.878"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 8,
+        "value": "0.126"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 6,
+        "value": "0.126"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 9,
+        "value": "0.843"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 8,
+        "value": "0.843"
+    }
+]

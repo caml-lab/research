@@ -1,0 +1,8 @@
+{
+    "target_title": "MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment",
+    "target_table": "<table><thead><tr><td rowspan=\"2\">IQA Name</td><td colspan=\"2\">Validation</td><td colspan=\"2\">Test</td></tr><tr><td>SROCC</td><td>PLCC</td><td>SROCC</td><td>PLCC</td></tr></thead><tbody><tr><td>PSNR</td><td>0.250</td><td>0.284</td><td>0.269</td><td>0.303</td></tr><tr><td>SSIM[43]</td><td>0.332</td><td>0.386</td><td>0.377</td><td>0.407</td></tr><tr><td>LPIPS-Alex[58]</td><td>0.581</td><td>0.616</td><td>0.584</td><td>0.592</td></tr><tr><td>FSIM[56]</td><td>0.473</td><td>0.575</td><td>0.528</td><td>0.610</td></tr><tr><td>NIQE[29]</td><td>0.005</td><td>0.115</td><td>0.03</td><td>0.112</td></tr><tr><td>MA[24]</td><td>0.129</td><td>0.131</td><td>0.173</td><td>0.224</td></tr><tr><td>PI[2]</td><td>0.079</td><td>0.133</td><td>0.123</td><td>0.153</td></tr><tr><td>Brisque[27]</td><td>0.015</td><td>0.059</td><td>0.087</td><td>0.097</td></tr><tr><td>MANIQA-S</td><td>0.686</td><td>0.707</td><td>0.667</td><td>0.702</td></tr><tr><td>MANIQA-E</td><td>-</td><td>-</td><td>0.704</td><td>0.740</td></tr></tbody></table>",
+    "target_caption": "Table 3: Performance of different methods on the NTIRE2022 IQA Challenge validation and testing datasets. MANIQA-S and MANIQA-E indicate the single model and ensemble model of MANIQA. Best performances are indicated with bold. Some data borrowed from [12].",
+    "source_title": "Learning a no-reference quality metric for single-image super-resolution",
+    "source_table": "",
+    "source_caption": ""
+}

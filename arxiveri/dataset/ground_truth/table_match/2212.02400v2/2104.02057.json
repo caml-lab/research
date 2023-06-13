@@ -1,0 +1,8 @@
+{
+    "target_title": "Location-Aware Self-Supervised Transformers for Semantic Segmentation",
+    "target_table": "<table><thead><tr><td>Method</td><td>AP</td><td>AP50</td><td>AP75</td></tr></thead><tbody><tr><td>DINO [11]</td><td>48.5</td><td>68.9</td><td>52.8</td></tr><tr><td>MoCo-v3 [15]</td><td>48.8</td><td>69.4</td><td>53.0</td></tr><tr><td>Supervised - DeiT-III [59]</td><td>49.0</td><td>69.5</td><td>53.4</td></tr><tr><td>LOCA (Ours)</td><td>49.6</td><td>70.0</td><td>54.1</td></tr><tr><td>iBOT [74]</td><td>49.9</td><td>70.6</td><td>54.3</td></tr><tr><td>MAE [31]</td><td>52.5</td><td>71.9</td><td>57.5</td></tr></tbody></table>",
+    "target_caption": "Table 8: Object detection with ViTDet.We report Average Precision for object detection with CenterNet [75] and ViTDet adaptation protocol [38] on COCO dataset [39].We follow the standard training schedule of 100 epochs.Architecture is ViT-B for all runs and pretraining data is ImageNet-1k.",
+    "source_title": "An empirical study of training self-supervised vision transformers",
+    "source_table": "",
+    "source_caption": ""
+}

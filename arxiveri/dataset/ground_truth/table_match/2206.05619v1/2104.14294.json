@@ -1,0 +1,8 @@
+{
+    "target_title": "Deep Learning Models for Automated Classification of Dog Emotional States from Facial Expressions",
+    "target_table": "<table><thead><tr><td colspan=\"2\">Backbone</td><td>Train Accuracy</td><td>Val. Accuracy</td></tr></thead><tbody><tr><td rowspan=\"2\">Sup.</td><td>ResNet50 [28]</td><td>0.800</td><td>0.809</td></tr><tr><td>ViT [21]</td><td>0.869</td><td>0.780</td></tr><tr><td rowspan=\"2\">DINO</td><td>ResNet50 [13]</td><td>0.870</td><td>0.813</td></tr><tr><td>ViT [13]</td><td>0.878</td><td>0.853</td></tr></tbody></table>",
+    "target_caption": "Table 1: Classification Results. The best results are achieved using a pre-trained DINO-ViT as a backbone.",
+    "source_title": "Emerging properties in self-supervised vision transformers",
+    "source_table": "",
+    "source_caption": ""
+}

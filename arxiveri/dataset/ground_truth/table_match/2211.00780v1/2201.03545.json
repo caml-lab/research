@@ -1,0 +1,8 @@
+{
+    "target_title": "Measuring Air Quality via Multimodal AI and Satellite Imagery",
+    "target_table": "<table><tbody><tr><td></td><td><p>ResNet18</p></td><td><p>ResNet50</p></td><td><p>MobileNetV3 howard2019searching </p></td><td><p>DenseNet121 huang2017densely </p></td><td><p>ConvNeXt liu2022convnet </p></td></tr><tr><td><p>Run time (t)</p></td><td><p>4.5 hours</p></td><td><p>9 hours</p></td><td>4 hours</td><td><p>8 hours</p></td><td><p>13 hours</p></td></tr><tr><td><p>R2-Score (r)</p></td><td><p>0.579</p></td><td><p>0.590</p></td><td>0.596</td><td><p>0.588</p></td><td>0.596</td></tr><tr><td><p>Efficiency-Score (r/t)</p></td><td><p>0.129</p></td><td><p>0.0655</p></td><td>0.1490</td><td><p>0.0735</p></td><td><p>0.0458</p></td></tr></tbody></table>",
+    "target_caption": "Table 2: Efficiency analysis for the backbone architectures. AQNet backbone MobileNetV3 is the fastest and best performing architecture among others.",
+    "source_title": "A convnet for the 2020s",
+    "source_table": "",
+    "source_caption": ""
+}

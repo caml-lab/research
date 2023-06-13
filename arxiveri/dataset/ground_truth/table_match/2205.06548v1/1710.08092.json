@@ -1,0 +1,8 @@
+{
+    "target_title": "Meta Balanced Network for Fair Face Recognition",
+    "target_table": "<table><thead><tr><td rowspan=\"2\">Model</td><td rowspan=\"2\">LFW [9]</td><td colspan=\"4\">IDS-4</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr></thead><tbody><tr><td>Microsoft [12]</td><td>98.22</td><td>87.60</td><td>79.67</td><td>82.83</td><td>75.83</td></tr><tr><td>Face++ [13]</td><td>97.03</td><td>93.90</td><td>92.47</td><td>88.55</td><td>87.50</td></tr><tr><td>Baidu [14]</td><td>98.67</td><td>89.13</td><td>90.27</td><td>86.53</td><td>77.97</td></tr><tr><td>Amazon [15]</td><td>98.50</td><td>90.45</td><td>84.87</td><td>87.20</td><td>86.27</td></tr><tr><td>mean</td><td>98.11</td><td>90.27</td><td>86.82</td><td>86.28</td><td>81.89</td></tr><tr><td>Center-loss [16]</td><td>98.75</td><td>87.18</td><td>79.32</td><td>81.92</td><td>78.00</td></tr><tr><td>Sphereface [17]</td><td>99.27</td><td>90.80</td><td>82.95</td><td>87.02</td><td>82.28</td></tr><tr><td>Arcface<sup>1</sup> [18]</td><td>99.40</td><td>92.15</td><td>83.98</td><td>88.00</td><td>84.93</td></tr><tr><td>VGGface2<sup>2</sup> [19]</td><td>99.30</td><td>89.90</td><td>84.93</td><td>86.13</td><td>83.38</td></tr><tr><td>mean</td><td>99.18</td><td>90.01</td><td>82.80</td><td>85.77</td><td>82.15</td></tr></tbody></table><ul><li>1<p>Arcface is a ResNet-34 model trained with CASIA-Webface.</p></li><li>2<p>VGGFace2 here is a SeNet model trained with VGGFace2.</p></li></ul>",
+    "target_caption": "TABLE II: Bias with respect to skin tone in commercial APIs and SOTA FR algorithms. Accuracies (%) on our IDS-4 are given. ",
+    "source_title": "Vggface2: A dataset for recognising faces across pose and age",
+    "source_table": "",
+    "source_caption": ""
+}

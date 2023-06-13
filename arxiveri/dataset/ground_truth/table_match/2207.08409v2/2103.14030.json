@@ -1,0 +1,8 @@
+{
+    "target_title": "TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers",
+    "target_table": "<table><tr><td>Model</td><td> #FLOPs (G) </td><td> #Params (M) </td><td>CutMix</td><td>TokenMix</td></tr><tr><td>DeiT-T [29]</td><td>1.3</td><td>5.7</td><td>72.2</td><td>73.2 (+1.0)</td></tr><tr><td>PVT-T [34]</td><td>1.9</td><td>13.2</td><td>75.1</td><td>75.6 (+0.5)</td></tr><tr><td>CaiT-XXS-24 [30]</td><td>2.5</td><td>9.5</td><td>77.6</td><td>78.0 (+0.4)</td></tr><tr><td>DeiT-S [29]</td><td>4.6</td><td>22.1</td><td>79.8</td><td>80.8 (+1.0)</td></tr><tr><td>Swin-T [21]</td><td>4.5</td><td>29</td><td>81.2</td><td>81.6 (+0.4)</td></tr><tr><td>DeiT-B [29]</td><td>17.6</td><td>86.6</td><td>81.8</td><td>82.9 (+1.1)</td></tr></table>",
+    "target_caption": "Table 1: ImageNet classification performances based on various transformer-based architectures. TokenMix consistently improves DeiT for \\sim 1% top-1 accuracy with nearly no extra training overhead.",
+    "source_title": "Swin transformer: Hierarchical vision transformer using shifted windows",
+    "source_table": "",
+    "source_caption": ""
+}

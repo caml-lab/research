@@ -1,0 +1,8 @@
+{
+    "target_title": "Improving video retrieval using multilingual knowledge transfer",
+    "target_table": "<table><thead><tr><td>Model</td><td>R@1 (\\uparrow)</td><td>R@5 (\\uparrow)</td><td>R@10 (\\uparrow)</td><td>MdR (\\downarrow)</td></tr></thead><tbody><tr><td>S2VT (Venugopalan et al. 2015)</td><td>11.9</td><td>33.6</td><td>-</td><td>13.0</td></tr><tr><td>FSE (Zhang, Hu, and Sha 2018)</td><td>13.9</td><td>36</td><td>-</td><td>11.0</td></tr><tr><td>CE (Liu et al. 2019)</td><td>16.1</td><td>41.1</td><td>-</td><td>8.3</td></tr><tr><td>ClipBERT (Lei et al. 2021)</td><td>20.4</td><td>48.0</td><td>60.8</td><td>6.0</td></tr><tr><td>FrozenInTime (Bain et al. 2021)</td><td>31.0</td><td>59.8</td><td>72.4</td><td>3.0</td></tr><tr><td>OA-Trans (Wang et al. 2022b)</td><td>34.8</td><td>64.4</td><td>75.1</td><td>3.0</td></tr><tr><td>CLIP4clip (Luo et al. 2021)</td><td>43.4</td><td>70.2</td><td>80.6</td><td>2.0</td></tr><tr><td>CLIP2TV (Gao et al. 2021)</td><td>43.9</td><td>70.5</td><td>79.8</td><td>2.0</td></tr><tr><td>TS2-Net (Liu et al. 2022)</td><td>41.8</td><td>71.6</td><td>82.0</td><td>2.0</td></tr><tr><td>ECLIPSE (Lin et al. 2022)</td><td>44.2</td><td>70.0</td><td>80.2</td><td>2.0</td></tr><tr><td>MKTVR</td><td>44.4</td><td>74.3</td><td>83.1</td><td>2.0</td></tr></tbody></table>",
+    "target_caption": "Table 4: Text-to-video retrieval result on DiDeMo dataset. Recall at rank-1 (R@1), rank-5 (R@5), rank-10 (R@10), Median Rank (MdR) are reported. Results of other methods taken from mentioned references.",
+    "source_title": "TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval",
+    "source_table": "",
+    "source_caption": ""
+}

@@ -1,0 +1,8 @@
+{
+    "target_title": "Argus++: Robust Real-time Activity Detection for Unconstrained Video Streams with Overlapping Cube Proposals",
+    "target_table": "<table><thead><tr><td>System/Team</td><td>Action@0.1 \\uparrow</td><td>Action@0.2 \\uparrow</td><td>Action@0.5 \\uparrow</td><td>Average \\uparrow</td></tr></thead><tbody><tr><td>Argus++ (Ours)</td><td>28.54</td><td>25.63</td><td>6.98</td><td>20.38</td></tr><tr><td>THE IFY</td><td>28.15</td><td>20.97</td><td>6.58</td><td>18.57</td></tr><tr><td>YAAAHO</td><td>26.81</td><td>20.40</td><td>7.02</td><td>18.07</td></tr><tr><td>hyj</td><td>26.52</td><td>20.32</td><td>7.05</td><td>17.97</td></tr><tr><td>3D RetinaNet [21]</td><td>25.70</td><td>19.40</td><td>6.47</td><td>17.19</td></tr><tr><td>LeeC</td><td>13.64</td><td>9.89</td><td>2.23</td><td>8.59</td></tr></tbody></table>",
+    "target_caption": "Table 6: ICCV 2021 ROAD Challenge Action Detection<sup>7</sup><sup>7</sup>7https://eval.ai/web/challenges/challenge-page/1059/leaderboard/2748",
+    "source_title": "ROAD: The ROad event Awareness Dataset for Autonomous Driving",
+    "source_table": "",
+    "source_caption": ""
+}

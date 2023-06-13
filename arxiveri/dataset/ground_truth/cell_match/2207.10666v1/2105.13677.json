@@ -1,0 +1,82 @@
+[
+    {
+        "rowIndex": 11,
+        "colIndex": 3,
+        "value": "94.9"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 5,
+        "value": "94.9 (\\uparrow 5.8)"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 2,
+        "value": "79.6"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 4,
+        "value": "79.6 (\\uparrow 9.9)"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 4,
+        "value": "14"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 1,
+        "value": "13.66"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 3,
+        "value": "95.5"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 5,
+        "value": "95.5"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 4,
+        "value": "28"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 1,
+        "value": "28.29"
+    },
+    {
+        "rowIndex": 16,
+        "colIndex": 4,
+        "value": "22"
+    },
+    {
+        "rowIndex": 9,
+        "colIndex": 1,
+        "value": "22.1"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 4,
+        "value": "13"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 1,
+        "value": "13.2"
+    },
+    {
+        "rowIndex": 10,
+        "colIndex": 2,
+        "value": "75.1"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 4,
+        "value": "75.1"
+    }
+]

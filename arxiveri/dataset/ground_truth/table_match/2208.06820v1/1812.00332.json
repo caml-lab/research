@@ -1,0 +1,8 @@
+{
+    "target_title": "Surrogate-assisted Multi-objective Neural Architecture Search for Real-time Semantic Segmentation",
+    "target_table": "<table><tbody><tr><td rowspan=\"2\">  Backbone</td><td rowspan=\"2\">Optimizedfor</td><td rowspan=\"2\">ImageNetTop-1</td><td colspan=\"3\">Semantic Segmentation mIoU (%)</td></tr><tr><td>Cityscapes</td><td>VOC 2012</td><td>COCO-Stuff</td></tr><tr><td>  ProxylessNAS [40]</td><td>Cls.</td><td>74.6</td><td>73.4</td><td>74.2</td><td>28.2</td></tr><tr><td>  MobileNetV3 [68]</td><td>Cls.</td><td>75.2</td><td>75.2</td><td>73.8</td><td>28.5</td></tr><tr><td>  FBNetV2 [41]</td><td>Cls.</td><td>75.5</td><td>72.6</td><td>73.6</td><td>28.5</td></tr><tr><td>  MoSegNet{}_{small}</td><td>Seg.</td><td>(-1.7) 73.4</td><td>(+2.9) 75.9</td><td>(+1.9) 75.8</td><td>(+2.1) 30.5</td></tr></tbody></table>",
+    "target_caption": "Table 7: Semantic segmentation performance comparison on backbone (encoder) models optimized for classification (Cls.) and segmentation (Seg.). The compared backbone models are of similar complexity in terms of inference speed. The averaged relative differences are shown in parentheses.",
+    "source_title": "ProxylessNAS: Direct neural architecture search on target task and hardware",
+    "source_table": "",
+    "source_caption": ""
+}

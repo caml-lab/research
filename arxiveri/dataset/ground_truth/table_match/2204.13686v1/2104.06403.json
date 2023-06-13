@@ -1,0 +1,8 @@
+{
+    "target_title": "HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling",
+    "target_table": "<table><thead><tr><td>Method</td><td>AP{}^{50}\\uparrow</td><td>AP{}^{75}\\uparrow</td></tr></thead><tbody><tr><td>CPN [12]</td><td>0.86</td><td>0.93</td></tr><tr><td>HRNet [92]</td><td>0.91</td><td>0.97</td></tr><tr><td>Lite-HRNet [106]</td><td>0.87</td><td>0.93</td></tr></tbody></table>",
+    "target_caption": "Table 7: 2D Keypoint Detection under Protocol 1. Input image is resized to 384\\times288",
+    "source_title": "Lite-hrnet: A lightweight high-resolution network",
+    "source_table": "",
+    "source_caption": ""
+}

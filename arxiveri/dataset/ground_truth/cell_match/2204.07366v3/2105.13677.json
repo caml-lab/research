@@ -1,0 +1,192 @@
+[
+    {
+        "rowIndex": 1,
+        "colIndex": 2,
+        "value": "21M"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 1,
+        "value": "20.6"
+    },
+    {
+        "rowIndex": 1,
+        "colIndex": 3,
+        "value": "4.0G"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 2,
+        "value": "4.0"
+    },
+    {
+        "rowIndex": 1,
+        "colIndex": 5,
+        "value": "79.4"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 4,
+        "value": "79.4"
+    },
+    {
+        "rowIndex": 1,
+        "colIndex": 6,
+        "value": "94.7"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 5,
+        "value": "94.7"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 2,
+        "value": "50M"
+    },
+    {
+        "rowIndex": 16,
+        "colIndex": 1,
+        "value": "49.61"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 3,
+        "value": "8.7G"
+    },
+    {
+        "rowIndex": 16,
+        "colIndex": 2,
+        "value": "8.7"
+    },
+    {
+        "rowIndex": 12,
+        "colIndex": 6,
+        "value": "96.2"
+    },
+    {
+        "rowIndex": 16,
+        "colIndex": 5,
+        "value": "96.2"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 2,
+        "value": "88M"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 1,
+        "value": "87.77"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 3,
+        "value": "15.4G"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 2,
+        "value": "15.4"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 5,
+        "value": "83.5"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 4,
+        "value": "83.5"
+    },
+    {
+        "rowIndex": 19,
+        "colIndex": 6,
+        "value": "96.5"
+    },
+    {
+        "rowIndex": 17,
+        "colIndex": 5,
+        "value": "96.5"
+    },
+    {
+        "rowIndex": 14,
+        "colIndex": 2,
+        "value": "52M"
+    },
+    {
+        "rowIndex": 21,
+        "colIndex": 1,
+        "value": "51.63"
+    },
+    {
+        "rowIndex": 14,
+        "colIndex": 3,
+        "value": "7.9G"
+    },
+    {
+        "rowIndex": 21,
+        "colIndex": 2,
+        "value": "7.9"
+    },
+    {
+        "rowIndex": 14,
+        "colIndex": 5,
+        "value": "83.6"
+    },
+    {
+        "rowIndex": 21,
+        "colIndex": 4,
+        "value": "83.6 (\\uparrow 3.3)"
+    },
+    {
+        "rowIndex": 14,
+        "colIndex": 6,
+        "value": "96.3"
+    },
+    {
+        "rowIndex": 21,
+        "colIndex": 5,
+        "value": "96.3 (\\uparrow 1.1)"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "28M"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 1,
+        "value": "28.29"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "4.5G"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 2,
+        "value": "4.5"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 5,
+        "value": "81.3"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 4,
+        "value": "81.3"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 6,
+        "value": "95.5"
+    },
+    {
+        "rowIndex": 15,
+        "colIndex": 5,
+        "value": "95.5"
+    }
+]

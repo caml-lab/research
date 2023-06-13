@@ -1,0 +1,152 @@
+[
+    {
+        "rowIndex": 1,
+        "colIndex": 1,
+        "value": "0.283"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 1,
+        "value": "0.283"
+    },
+    {
+        "rowIndex": 1,
+        "colIndex": 2,
+        "value": "0.873"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "0.873"
+    },
+    {
+        "rowIndex": 1,
+        "colIndex": 3,
+        "value": "0.578"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "0.578"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 1,
+        "value": "0.400"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 1,
+        "value": "0.400"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 2,
+        "value": "0.664"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "0.664"
+    },
+    {
+        "rowIndex": 2,
+        "colIndex": 3,
+        "value": "0.532"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "0.532"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 1,
+        "value": "0.385"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 1,
+        "value": "0.385"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 2,
+        "value": "0.459"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 2,
+        "value": "0.459"
+    },
+    {
+        "rowIndex": 3,
+        "colIndex": 3,
+        "value": "0.422"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 3,
+        "value": "0.422"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 1,
+        "value": "0.376"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 1,
+        "value": "0.376"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 2,
+        "value": "0.339"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 2,
+        "value": "0.339"
+    },
+    {
+        "rowIndex": 4,
+        "colIndex": 3,
+        "value": "0.357"
+    },
+    {
+        "rowIndex": 13,
+        "colIndex": 3,
+        "value": "0.357"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 1,
+        "value": "0.325"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 1,
+        "value": "0.325"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 2,
+        "value": "0.385"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 2,
+        "value": "0.385"
+    },
+    {
+        "rowIndex": 5,
+        "colIndex": 3,
+        "value": "0.355"
+    },
+    {
+        "rowIndex": 11,
+        "colIndex": 3,
+        "value": "0.355"
+    }
+]

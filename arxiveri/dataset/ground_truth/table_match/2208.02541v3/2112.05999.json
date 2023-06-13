@@ -1,0 +1,8 @@
+{
+    "target_title": "MVSFormer: Multi-View Stereo by Learning Robust Image Features and Temperature-based Depth",
+    "target_table": "<table><tbody><tr><td>Methods</td><td>Acc.\\downarrow</td><td>Cop.\\downarrow</td><td>Ovl.\\downarrow</td></tr><tr><td>Gipuma[20]</td><td>0.283</td><td>0.873</td><td>0.578</td></tr><tr><td>COLMAP[43]</td><td>0.400</td><td>0.664</td><td>0.532</td></tr><tr><td>R-MVSNet[61]</td><td>0.385</td><td>0.459</td><td>0.422</td></tr><tr><td>AA-RMVSNet[52]</td><td>0.376</td><td>0.339</td><td>0.357</td></tr><tr><td>CasMVSNet[22]</td><td>0.325</td><td>0.385</td><td>0.355</td></tr><tr><td>CDS-MVSNet[21]</td><td>0.352</td><td>0.280</td><td>0.316</td></tr><tr><td>UniMVSNet[41]</td><td>0.352</td><td>0.278</td><td>0.315</td></tr><tr><td>TransMVSNet[15]</td><td>0.321</td><td>0.289</td><td>0.305</td></tr><tr><td>GBiNet*[40]</td><td>0.312</td><td>0.293</td><td>0.303</td></tr><tr><td>MVSFormer-P</td><td>0.327</td><td>0.265</td><td>0.296</td></tr><tr><td>MVSFormer-H</td><td>0.327</td><td>0.251</td><td>0.289</td></tr></tbody></table>",
+    "target_caption": "Table 1: Quantitative point cloud results (mm) with Accuracy (Acc.), Completeness (Cop.), and Overall (Ovl.) on DTU [1] (lower is better). Best results are in bold, and second ones are underlined. * means that GBiNet [40] is re-tested with the same post-processing threshold to all scans for fair comparisons with other methods.",
+    "source_title": "Curvature-guided dynamic scale networks for multi-view stereo",
+    "source_table": "",
+    "source_caption": ""
+}
