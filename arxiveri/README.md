@@ -1,7 +1,7 @@
 ## arXiVeri: Automatic table verification with GPT
 
 Official PyTorch implementation of **arXiVeri: Automatic table verification with GPT**. Details can be found in the paper.
-[[`paper`](https://arxiv.org/pdf/2304.14376.pdf)][[`project page`](https://www.robots.ox.ac.uk/~vgg/research/arxiveri/)]
+[[`paper`](http://arxiv.org/abs/2306.07968)][[`project page`](https://www.robots.ox.ac.uk/~vgg/research/arxiveri/)]
 
 ![Alt Text](project_page/assets/autotv_tasks.png)
 
@@ -16,9 +16,10 @@ Running a script present in this repository might cost you for running a commerc
 Please be aware that we are not responsible for the cost you will incur.
 
 ## Preparation
-### 0. Fork or download this repository
+### 1. Fork or download this repository.
+The arXiVeri benchmark is included in the `dataset` directory.
 
-### 1. Set your API keys in your .bashrc file or your corresponding configuration file for your shell.
+### 2. Set your API keys in your .bashrc file or your corresponding configuration file for your shell.
 ```shell
 export OPENAI_API_KEY={YOUR_OPENAI_API_KEY}
 export COHERE_API_KEY={COHERE_API_KEY}  # production-key
@@ -31,6 +32,7 @@ To get the API keys, please visit the following links:
 ## Inference
 ### Table matching
 For running a script for table matching, use `run-table-matcher.sh` in the `scripts` directory.
+Please set your root directory (`DIR_ROOT`) in the script before running the following:
 ```shell
 cd scripts
 bash run-table-matcher.sh
